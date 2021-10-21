@@ -23,7 +23,8 @@
 - TomCat
 
 <h2>How to start</h2>
-- Clone this project.
-- Initialise a database using resources/init_db.sql file and running it in your DBMS.
-- Configure your database connection information in ConnectionUtil.java in java/util folder:
-- Run project using TomCat 9.x.x, use / as your Tomcat application context.
+
+- Clone this project
+- Initialise a database using resources/init_db.sql file and running it in your DBMS
+- Configure your database connection information in ConnectionUtil.java in java/util folder
+- Run project using TomCat 9.x.x, use / as your Tomcat application context
