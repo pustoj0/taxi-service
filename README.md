@@ -14,7 +14,7 @@
 
 <h2> Briefing </h2>
 
-In this project driver is user and there are no division between roles, so every user is administrator. After creating accaunt, he can manipulate cars/drivers/manufacturers in diffrent ways and have a way to see their properties. Project was created to test my current abilities so it has little commercial value.
+In this project driver is user and there are no division between roles, so every user is administrator. After creating account, he can manipulate cars/drivers/manufacturers in diffrent ways and have a way to see their properties. Project was created to test my current abilities so it has little commercial value.
 
 <h2> Technologies </h2>
 
