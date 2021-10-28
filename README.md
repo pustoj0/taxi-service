@@ -31,7 +31,7 @@ In this project driver is user and there are no division between roles, so every
 - Install MySQL.
 - Install Tomcat 9.x.x version.
 - Fork this project and clone it.
-- Initialise a database. Use resources/init_db.sql file located in resources and run it in your DBMS.
+- Initialise a database. Use resources/init_db.sql file and run it in your DBMS.
 - Configure your database connection information in ConnectionUtil.java in java/util folder.
 - Configure your Tomcat. Use artifact to deploy - web-practice:war-exploded, Application context - "/".
 - Run this project using Tomcat's local server.
