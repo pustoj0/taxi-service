@@ -12,6 +12,10 @@
 - Add driver to car
 - Display all drivers of your car
 
+<h2> Briefing </h2>
+
+In this project driver is user and there are no division between roles, so every user is administrator. After creating accaunt, he can manipulate cars/drivers/manufacturers in diffrent ways and have a way to see their properties. Project was created to test my current abilities so it has little commercial value.
+
 <h2> Technologies </h2>
 
 - Java 11
@@ -24,7 +28,10 @@
 
 <h2>How to start</h2>
 
-- Clone this project
-- Initialise a database using resources/init_db.sql file and running it in your DBMS
-- Configure your database connection information in ConnectionUtil.java in java/util folder
-- Run project using TomCat 9.x.x, use / as your Tomcat application context
+- Install MySQL.
+- Install Tomcat 9.x.x version.
+- Fork this project and clone it.
+- Initialise a database using resources/init_db.sql file located in resources and run it in your DBMS.
+- Configure your database connection information in ConnectionUtil.java in java/util folder.
+- Configure your Tomcat. Use artifact to deploy - web-practice:war-exploded, Application context - "/".
+- Run this project using Tomcat's local server.
